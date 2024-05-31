@@ -33,3 +33,8 @@ Administrator can add products to the list of available products.
 ## Database
 
 <img width=auto src="./images/database.jpg" title="Database"/>
+
+## Authors
+
+- [Krzysztof Nikodem](https://github.com/knikodemQ)
+- [Maciej Mężyk](https://github.com/mcjmk)
